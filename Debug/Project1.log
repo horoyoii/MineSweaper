@@ -1,0 +1,22 @@
+﻿  mine swaper.c
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(47): warning C4047: '함수': 'char **(*)[20]'의 간접 참조 수준이 'char *[20][20]'과(와) 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(47): warning C4024: 'setup': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(48): warning C4047: '함수': 'int *(*)[20]'의 간접 참조 수준이 'int [20][20]'과(와) 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(48): warning C4024: 'setup1': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(50): warning C4047: '함수': 'char **(*)[20]'의 간접 참조 수준이 'char *[20][20]'과(와) 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(50): warning C4024: 'ShowBoard': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(70): warning C4047: '함수': 'char **(*)[20]'의 간접 참조 수준이 'char *[20][20]'과(와) 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(70): warning C4024: 'ShowBoard': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(84): warning C4047: '함수': 'char **(*)[20]'의 간접 참조 수준이 'char *[20][20]'과(와) 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(84): warning C4024: 'ShowBoard': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(114): warning C4047: '=': 'char **'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(119): warning C4047: '=': 'char **'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(122): warning C4047: '=': 'char **'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(135): warning C4477: 'printf' : 서식 문자열 '%2s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(153): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(157): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(160): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(164): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\프랜즈\desktop\작성중인 파일 clang\지뢰찾기ver2\project1\mine swaper.c(180): warning C4477: 'printf' : 서식 문자열 '%2d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  tt.c
+  Project1.vcxproj -> C:\Users\프랜즈\Desktop\작성중인 파일 clang\지뢰찾기ver2\Project1\Debug\Project1.exe
